@@ -47,4 +47,4 @@ Streamlit (Web UI)
 
 📂 Model
 
-The trained model.pkl file is not included in this repository due to GitHub's file size limit."# FashionVision" 
+The trained model.pkl file is not included in this repository due to GitHub's file size limit.
