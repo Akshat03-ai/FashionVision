@@ -33,17 +33,18 @@ Bag
 Ankle boot
 
 
+
 🛠 Tech Stack
 
-Python 3
+- Python 3
 
-scikit-learn (RandomForestClassifier)
+- scikit-learn (RandomForestClassifier)
 
-Pillow (Image processing)
+- Pillow (Image processing)
 
-NumPy (Array manipulation)
+- NumPy (Array manipulation)
 
-Streamlit (Web UI)
+- Streamlit (Web UI)
 
 📂 Model
 
