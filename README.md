@@ -12,25 +12,16 @@ The project uses a trained RandomForestClassifier model and a Streamlit web inte
 
 🎯 Recognizes 10 clothing categories:
 
-T-shirt/top
-
-Trouser
-
-Pullover
-
-Dress
-
-Coat
-
-Sandal
-
-Shirt
-
-Sneaker
-
-Bag
-
-Ankle boot
+1. T-shirt/top
+2. Trouser
+3. Pullover
+4. Dress
+5. Coat
+6. Sandal
+7. Shirt
+8. Sneaker
+9. Bag
+10. Ankle boot
 
 
 
